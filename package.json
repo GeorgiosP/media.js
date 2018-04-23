@@ -1,0 +1,12 @@
+{
+  "name": "media-js",
+  "version": "1.0.0",
+  "description": "Media queries for styled components",
+  "main": "media.js",
+  "repository": "https://github.com/GeorgiosP/media.js.git",
+  "author": "Georgios Psarakis",
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "^3.2.6"
+  }
+}
